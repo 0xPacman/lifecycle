@@ -1,0 +1,5 @@
+{
+  "name": "HTTP Lifecycle Simulator",
+  "description": "An interactive visualization of the HTTP request lifecycle with slow-motion simulation.",
+  "requestFramePermissions": []
+}
